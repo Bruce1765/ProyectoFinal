@@ -1,0 +1,65 @@
+=== REPORTE DE INVENTARIO EN TIEMPO REAL (SCALA) ===
+ID: LIC001 | Modelo: Oster Reversible 2L | Stock Restante: 15 un.
+ID: LIC002 | Modelo: Philips Walita Pro | Stock Restante: 19 un.
+ID: LIC003 | Modelo: Black+Decker CrushMaster | Stock Restante: 12 un.
+ID: LIC004 | Modelo: Ninja Professional 1000W | Stock Restante: 7 un.
+ID: LIC005 | Modelo: Moulinex PerfectMix+ | Stock Restante: 10 un.
+ID: LIC006 | Modelo: Taurus Optima Glass | Stock Restante: 25 un.
+ID: LIC007 | Modelo: Imaco PowerBlender | Stock Restante: 30 un.
+ID: LIC008 | Modelo: Bosch VitaPower Serie 4 | Stock Restante: 6 un.
+ID: REF001 | Modelo: LG TwinWash 450L | Stock Restante: 10 un.
+ID: REF002 | Modelo: Samsung Pro 600L | Stock Restante: 7 un.
+ID: REF003 | Modelo: Frigobar Indurama 90L | Stock Restante: 5 un.
+ID: REF004 | Modelo: Mabe Ahorradora 300L | Stock Restante: 12 un.
+ID: REF005 | Modelo: Daewoo No Frost 250L | Stock Restante: 14 un.
+ID: REF006 | Modelo: Bosch Inverter 500L | Stock Restante: 4 un.
+ID: REF007 | Modelo: Panasonic PrimeFresh 400L | Stock Restante: 9 un.
+ID: REF008 | Modelo: Whirlpool Side by Side | Stock Restante: 3 un.
+ID: MIC001 | Modelo: Panasonic Digital 32L | Stock Restante: 18 un.
+ID: MIC002 | Modelo: Samsung Ceramic 23L | Stock Restante: 22 un.
+ID: MIC003 | Modelo: LG Smart Inverter 42L | Stock Restante: 10 un.
+ID: MIC004 | Modelo: Oster Mecánico 20L | Stock Restante: 30 un.
+ID: MIC005 | Modelo: Daewoo Espejo 28L | Stock Restante: 15 un.
+ID: MIC006 | Modelo: Winia Grill 20L | Stock Restante: 20 un.
+ID: MIC007 | Modelo: Imaco con Dorador 25L | Stock Restante: 12 un.
+ID: MIC008 | Modelo: Mabe Inox 30L | Stock Restante: 8 un.
+ID: OLL001 | Modelo: Oster Multiusos 1.8L | Stock Restante: 40 un.
+ID: OLL002 | Modelo: Philips Antiadherente 2L | Stock Restante: 25 un.
+ID: OLL003 | Modelo: Imaco Casserole 1.5L | Stock Restante: 50 un.
+ID: OLL004 | Modelo: Black+Decker Familiar 2.2L | Stock Restante: 15 un.
+ID: OLL005 | Modelo: Midea Digital 1.8L | Stock Restante: 18 un.
+ID: OLL006 | Modelo: Record Tradicional 1.8L | Stock Restante: 35 un.
+ID: OLL007 | Modelo: Recco Económica 1.2L | Stock Restante: 60 un.
+ID: OLL008 | Modelo: Oster Bioceramic 2.2L | Stock Restante: 10 un.
+ID: COC001 | Modelo: Indurama Granada 4Q | Stock Restante: 8 un.
+ID: COC002 | Modelo: Mabe Inox 4 Hornillas | Stock Restante: 6 un.
+ID: COC003 | Modelo: Sole de Empotrar 4Q | Stock Restante: 12 un.
+ID: COC004 | Modelo: Bosch Pro 5 Hornillas | Stock Restante: 4 un.
+ID: COC005 | Modelo: Coldex Master 4Q | Stock Restante: 10 un.
+ID: COC006 | Modelo: Indurama Montecarlo 5Q | Stock Restante: 5 un.
+ID: COC007 | Modelo: Electrolux Triple Llama | Stock Restante: 7 un.
+ID: COC008 | Modelo: Surge de Mesa 2 Hornillas | Stock Restante: 40 un.
+ID: BAT001 | Modelo: Oster Pedestal 3.5L | Stock Restante: 15 un.
+ID: BAT002 | Modelo: KitchenAid Artisan Pro | Stock Restante: 5 un.
+ID: BAT003 | Modelo: Philips de Mano Daily | Stock Restante: 30 un.
+ID: BAT004 | Modelo: Bosch Styline 500W | Stock Restante: 12 un.
+ID: BAT005 | Modelo: Imaco de Pedestal Inox | Stock Restante: 18 un.
+ID: BAT006 | Modelo: Black+Decker 5 Velocidades | Stock Restante: 24 un.
+ID: BAT007 | Modelo: Liliana Planetaria Smart | Stock Restante: 8 un.
+ID: BAT008 | Modelo: Finezza Semi-Industrial | Stock Restante: 6 un.
+ID: WAF001 | Modelo: Oster Antiadherente Belga | Stock Restante: 18 un.
+ID: WAF002 | Modelo: Black+Decker 3 en 1 | Stock Restante: 12 un.
+ID: WAF003 | Modelo: Imaco Waflera Circular | Stock Restante: 30 un.
+ID: WAF004 | Modelo: Cuisinart Double Waffle | Stock Restante: 5 un.
+ID: WAF005 | Modelo: Blanik Waffle Maker | Stock Restante: 14 un.
+ID: WAF006 | Modelo: Recco Giratoria | Stock Restante: 22 un.
+ID: WAF007 | Modelo: Krups Professional | Stock Restante: 6 un.
+ID: WAF008 | Modelo: Westinghouse Mini Waffle | Stock Restante: 45 un.
+ID: LAV001 | Modelo: Samsung Carga Superior 13KG | Stock Restante: 10 un.
+ID: LAV002 | Modelo: LG Smart Inverter 16KG | Stock Restante: 8 un.
+ID: LAV003 | Modelo: Mabe Aqua Saver 19KG | Stock Restante: 6 un.
+ID: LAV004 | Modelo: Daewoo Semiautomática 11KG | Stock Restante: 15 un.
+ID: LAV005 | Modelo: Whirlpool Carga Frontal 20KG | Stock Restante: 4 un.
+ID: LAV006 | Modelo: Panasonic Inverter 14KG | Stock Restante: 9 un.
+ID: LAV007 | Modelo: Electrolux Premium 17KG | Stock Restante: 5 un.
+ID: LAV008 | Modelo: Winia Bubble Eco 15KG | Stock Restante: 11 un.

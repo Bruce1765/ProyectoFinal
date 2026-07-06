@@ -1,0 +1,10 @@
+[2026-07-02T15:56:12] ERROR | Auth: - | Monto: S/. 750.00 | Tarjeta: **** | Motivo: Numero de tarjeta invalido.
+[2026-07-02T16:13:56] SUCCESS | Auth: 79541FF9 | Monto: S/. 750.00 | Tarjeta: **** **** **** 4242 | Motivo: Pago autorizado correctamente.
+[2026-07-02T16:18:48] SUCCESS | Auth: 62F39F24 | Monto: S/. 1330.00 | Tarjeta: **** **** **** 4242 | Motivo: Pago autorizado correctamente.
+[2026-07-02T16:21:37] ERROR | Auth: - | Monto: S/. 750.00 | Tarjeta: **** **** **** 4241 | Motivo: Numero de tarjeta no supera la validacion (Luhn).
+[2026-07-02T16:21:50] ERROR | Auth: - | Monto: S/. 750.00 | Tarjeta: **** **** **** 4265 | Motivo: Numero de tarjeta no supera la validacion (Luhn).
+[2026-07-02T16:22:15] SUCCESS | Auth: CBE1C8FA | Monto: S/. 750.00 | Tarjeta: **** **** **** 4242 | Motivo: Pago autorizado correctamente.
+[2026-07-02T16:23:15] SUCCESS | Auth: 1228032C | Monto: S/. 350.00 | Tarjeta: **** **** **** 4444 | Motivo: Pago autorizado correctamente.
+[2026-07-04T12:11:40] ERROR | Auth: - | Monto: S/. 180.00 | Tarjeta: **** | Motivo: El nombre del titular es obligatorio.
+[2026-07-04T12:12:10] ERROR | Auth: - | Monto: S/. 180.00 | Tarjeta: **** | Motivo: Numero de tarjeta invalido.
+[2026-07-04T12:12:11] ERROR | Auth: - | Monto: S/. 180.00 | Tarjeta: **** | Motivo: Numero de tarjeta invalido.

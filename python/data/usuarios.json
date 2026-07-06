@@ -1,0 +1,14 @@
+[
+    {
+        "id": "0335ca3c-8a60-4410-8b31-ff08c2597f46",
+        "nombre": "Felix",
+        "usuario": "Felix",
+        "password": "1234"
+    },
+    {
+        "id": "1bd43e16-739a-425f-831c-2615adb9bfd5",
+        "nombre": "Karla",
+        "usuario": "Karla",
+        "password": "1234"
+    }
+]

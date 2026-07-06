@@ -1,0 +1,28 @@
+# Node (Frontend)
+node_modules/
+dist/
+.env
+
+# Scala
+target/
+project/project/
+project/target/
+.bsp/
+.scala-build/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+.metals/
+.bsp/
+scala/target/
+scala/project/target/
+scala/project/project/
